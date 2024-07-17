@@ -1,0 +1,2 @@
+### Available Tags:
+`{saungmcscore.coin}`

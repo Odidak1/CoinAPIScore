@@ -1,0 +1,7 @@
+name: CoinAPIScore
+main: Ifera\CoinAPIScore\Main
+api: 5.0.0
+version: 1.0.0
+author: Ifera, Odidak
+description: A plugin implementing some basic tags for ScoreHud.
+depend: [ScoreHud, CoinAPI]
